@@ -1,1 +1,1 @@
-# nextjs + TypeScript + Twindland
+# nextjs + TypeScript + TailwindCSS
